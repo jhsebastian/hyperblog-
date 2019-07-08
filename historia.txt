@@ -1,2 +1,3 @@
 Hola mundo, mi nombre es Jhon Sebastián Martínez Soto 
-tengo 20 años y actualmente voy a entrar al quinto semestre de Desarrollo de Software 
+tengo 20 años y vivo en Colombia
+actualmente voy a entrar al quinto semestre de Desarrollo de Software 
