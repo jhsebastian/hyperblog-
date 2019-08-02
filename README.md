@@ -1,4 +1,4 @@
-  :tw-1f1ed: :tw-1f1fe: :tw-1f1f5: :tw-1f1ea: :tw-1f1f7: :tw-1f1e7: :tw-1f1f1: :tw-1f1f4: :tw-1f1ec: :tw-1f4bb:
+# **HYPERBLOG **
   
 Amazing blog for Curso Profesional de Git y GitHub on Platzi
 
@@ -10,8 +10,5 @@ Amazing blog for Curso Profesional de Git y GitHub on Platzi
 ------------
 
 ### Este proyecto es solo una forma de poner en practica todo lo aprendido en el curso. 
-:tw-1f1ec: :tw-1f1ee: :tw-1f1f9: & :tw-1f1ec: :tw-1f1ee: :tw-1f1f9: :tw-1f1ed: :tw-1f1fa: :tw-1f1e7:
-<<<<<<< HEAD
-=======
 
-
+###### GIT AND GITHUB 
