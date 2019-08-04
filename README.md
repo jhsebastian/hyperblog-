@@ -12,3 +12,5 @@ Amazing blog for Curso Profesional de Git y GitHub on Platzi
 ### Este proyecto es solo una forma de poner en practica todo lo aprendido en el curso. 
 
 ###### GIT AND GITHUB 
+
+Intenando utilizar el comando cherry-pick
