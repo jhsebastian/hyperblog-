@@ -15,3 +15,4 @@ Amazing blog for Curso Profesional de Git y GitHub on Platzi
 
 Intenando utilizar el comando cherry-pick
 Se le agregan cosas al video y pues me toca a mi hacerlo acá 
+se hace una tercer linea pero ps 
